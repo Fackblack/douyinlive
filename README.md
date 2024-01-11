@@ -6,7 +6,7 @@
 
 ### 抖音
 
-- APP分享链接: https://v.douyin.com/xxxxx
+- APP分享链接（手机主页和直播间）: https://v.douyin.com/xxxxx
 
 - PC直播页链接: https://live.douyin.com/xxxx
 
