@@ -1,6 +1,6 @@
-# 抖音直播监控录制工具（douyin live）【永久免费】
+# 抖音直播监控录制工具1.4（douyin live）【永久免费】
 
-## 24小时自动监控录制抖音直播间画面（本项目于2024年1月11日更新）
+## 24小时自动监控录制抖音直播间画面（本项目于2024年9月3日更新）
 
 ## 已支持链接格式
 
@@ -25,18 +25,17 @@
 - （9）每个主播可鼠标右键修改保存目录
 - .............
 
-
 ## 下载
 
-下载地址：https://wwbg.lanzouj.com/b058rq5xa
+下载地址：https://www.lanzouj.com/b058rq5xa
 
 访问密码：1234
 
 ## 基本界面
 
-![210a9b132d88ab1e672c2a0dabed13f](https://github.com/Fackblack/myfiles/assets/78981478/aa34a2be-9c9b-4cc6-a316-95d0e6765f70)
-![7ad146088b8f50c4b40cd3cb23cd56b](https://github.com/Fackblack/myfiles/assets/78981478/5356a568-4ea4-484b-ab77-420f3bf4b46a)
-![25da7e53da3a1588afe5698852b6793](https://github.com/Fackblack/myfiles/assets/78981478/cd9e1afa-ef0b-4951-adb7-282b56325a62)
-![f924a3d710a3b1ca5941a43534fac01](https://github.com/Fackblack/myfiles/assets/78981478/637c82f4-e743-4e7c-9371-99eefc9164d5)
+![1](https://github.com/user-attachments/assets/388e6f82-c6a5-499d-8adc-3aecdef3832d)
+![2](https://github.com/user-attachments/assets/315fd7ea-8213-4b25-b5da-35529ce0b8a2)
+![3](https://github.com/user-attachments/assets/28fb2d2d-5722-433b-a00d-270ba9c3c775)
+![4](https://github.com/user-attachments/assets/29bd037f-4d0a-4e48-a9e5-8abcf5e4d8d6)
 
 
